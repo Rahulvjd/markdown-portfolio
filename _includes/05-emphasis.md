@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*The ordered list is shown here*
+
+**Unodered list is also listed**
+
+
